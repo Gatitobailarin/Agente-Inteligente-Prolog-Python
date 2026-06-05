@@ -1,6 +1,6 @@
 # MediMind AI: Agente Inteligente para Diagnóstico y Seguimiento Médico Personalizado
 
-MediMind AI es un proyecto universitario avanzado de Inteligencia Artificial que integra Prolog como motor de inferencia y Python como interfaz gráfica para diagnosticar enfermedades probables, explicar el razonamiento, generar recomendaciones, clasificar urgencia y administrar historial dinámico del paciente.
+MediMind AI es un proyecto universitario que integra Prolog como motor de inferencia y Python como interfaz gráfica para diagnosticar enfermedades probables, explicar el razonamiento, generar recomendaciones, clasificar urgencia y administrar historial dinámico del paciente.
 
 ## Arquitectura del sistema
 
